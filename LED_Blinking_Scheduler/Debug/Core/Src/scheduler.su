@@ -1,0 +1,12 @@
+scheduler.c:36:13:insert_sorted	32	static
+scheduler.c:53:13:remove_at	40	static
+scheduler.c:63:6:SCH_Init	32	static
+scheduler.c:76:6:SCH_Update	4	static
+scheduler.c:80:10:get_time	4	static
+scheduler.c:84:10:SCH_Add_Task	40	static
+scheduler.c:103:9:SCH_Delete_Task	24	static
+scheduler.c:120:6:SCH_Dispatch_Tasks	32	static
+scheduler.c:145:20:error_name	16	static
+scheduler.c:160:6:SCH_Report_Status	16	static
+scheduler.c:185:6:SCH_Go_To_Sleep	4	static,ignoring_inline_asm
+scheduler.c:192:10:SCH_Get_Current_Size	4	static

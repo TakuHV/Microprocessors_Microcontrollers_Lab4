@@ -1,0 +1,11 @@
+Tasks.c:12:6:Task_LED1	8	static
+Tasks.c:17:6:Task_LED2	8	static
+Tasks.c:22:6:Task_LED3	8	static
+Tasks.c:27:6:Task_LED4	8	static
+Tasks.c:32:6:Task_LED5	8	static
+Tasks.c:40:6:Task_10ms	8	static
+Tasks.c:45:6:Task_OneShot1	8	static
+Tasks.c:49:6:Task_OneShot2	8	static
+Tasks.c:53:6:Task_OneShot3	8	static
+Tasks.c:58:6:Task_Stop10ms	24	static
+Tasks.c:67:6:Task_Cancelled	8	static
